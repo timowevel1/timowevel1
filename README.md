@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timo</h1>
 <h3 align="center">CS Student at TU Dortmund in Germany and Cloud Architect</h3>
 
-- 🌱 I’m currently learning **backend development with NodeJS**
+- 🌱 I’m currently learning **backend development**
 
 - 📫 How to reach me **mail@timowevelsiep.de**
 
